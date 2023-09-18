@@ -1,2 +1,2 @@
 # ComponentLifeCycle_RNN
-Conditioning Monitoring base in online data (temperature and vibration), and Component life cycle projection
+Conditioning Monitoring base in online data (temperature and vibration), to provide a estimated Component life cycle projection
